@@ -1,0 +1,345 @@
+Machines with image:
+
+Machines without image:
+[32ma01101: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01102: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01103: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01104: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01105: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01106: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01107: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01108: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01109: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01110: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01111: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.11.12 port 22: No route to host
+[32ma01113: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01114: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01115: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01116: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.11.17 port 22: No route to host
+[32ma01118: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01119: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01120: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01201: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01202: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01203: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01204: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01205: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01206: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01207: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01208: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01209: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01210: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01211: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01212: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01213: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.12.14 port 22: No route to host
+[32ma01215: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01216: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01217: bradenacurtis801/client-base:1.0 is running[0m
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 10.10.12.18 port 22
+[32ma01219: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01220: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01301: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01302: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01303: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01304: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01305: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01306: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.13.7 port 22: No route to host
+[32ma01308: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01309: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01310: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01311: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01312: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01313: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01314: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01315: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01316: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01317: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01318: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01319: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01320: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01401: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01402: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01403: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01404: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01405: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01406: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01407: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.14.8 port 22: No route to host
+[32ma01409: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01410: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01411: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01412: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01413: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01414: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01415: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01416: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01417: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01418: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01419: bradenacurtis801/client-base:1.0 is running[0m
+[32ma01420: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02101: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02102: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02103: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02104: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.21.5 port 22: No route to host
+[32ma02106: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.21.7 port 22: No route to host
+[32ma02108: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02109: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02110: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.21.11 port 22: No route to host
+[32ma02112: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02113: bradenacurtis801/client-base:1.0 is running[0m
+[31ma02114: bradenacurtis801/client-base:1.0 is not running[0m
+[32ma02115: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02116: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.21.17 port 22: No route to host
+[32ma02118: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02119: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02120: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02201: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.22.2 port 22: No route to host
+[32ma02203: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.22.4 port 22: No route to host
+[32ma02205: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02206: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02207: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.22.8 port 22: No route to host
+[32ma02209: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02210: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02211: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02212: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.22.13 port 22: No route to host
+[32ma02214: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02215: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02216: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02217: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02218: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02219: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02220: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02301: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02302: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.23.3 port 22: No route to host
+[32ma02304: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02305: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02306: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02407: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02308: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02309: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.23.10 port 22: No route to host
+[32ma02311: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02312: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02513: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02314: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02315: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02316: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02317: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02318: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02319: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02320: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02401: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02402: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02403: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02404: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02405: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.24.6 port 22: No route to host
+ssh: connect to host 10.10.24.7 port 22: No route to host
+[32ma02408: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02409: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02410: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.24.11 port 22: No route to host
+ssh: connect to host 10.10.24.12 port 22: No route to host
+[32ma02413: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.24.14 port 22: No route to host
+[32ma02415: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02416: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.24.17 port 22: No route to host
+[32ma02418: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02419: bradenacurtis801/client-base:1.0 is running[0m
+ubuntu@10.10.24.20: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+[32ma02501: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02502: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02503: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.25.4 port 22: No route to host
+ssh: connect to host 10.10.25.5 port 22: No route to host
+[32ma02506: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02507: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02508: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02509: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02510: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.25.11 port 22: No route to host
+ssh: connect to host 10.10.25.12 port 22: No route to host
+ssh: connect to host 10.10.25.13 port 22: No route to host
+[32ma02514: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02515: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02516: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02517: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02518: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02519: bradenacurtis801/client-base:1.0 is running[0m
+[32ma02520: bradenacurtis801/client-base:1.0 is running[0m
+[31mb11101: bradenacurtis801/client-base:1.0 is not running[0m
+ssh: connect to host 10.10.111.2 port 22: No route to host
+[31mb11103: bradenacurtis801/client-base:1.0 is not running[0m
+[32mb11104: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11105: bradenacurtis801/client-base:1.0 is running[0m
+[31mb11106: bradenacurtis801/client-base:1.0 is not running[0m
+[32mb11107: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11108: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11109: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.111.10 port 22: No route to host
+ssh: connect to host 10.10.111.11 port 22: No route to host
+ssh: connect to host 10.10.111.12 port 22: No route to host
+[32mb11113: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11114: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.111.15 port 22: No route to host
+ssh: connect to host 10.10.111.16 port 22: No route to host
+[31mb11117: bradenacurtis801/client-base:1.0 is not running[0m
+[32mb11118: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11119: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11120: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11201: bradenacurtis801/client-base:1.0 is running[0m
+[31mb11202: bradenacurtis801/client-base:1.0 is not running[0m
+[32mb11203: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11204: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11205: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11206: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.112.7 port 22: No route to host
+[32mb11208: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11209: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11210: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11211: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11212: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11213: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11214: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11215: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11216: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11217: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11218: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11219: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11220: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11301: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11302: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11303: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11304: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.113.5 port 22: No route to host
+[32mb11306: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11307: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11308: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11309: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11310: bradenacurtis801/client-base:1.0 is running[0m
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+[31mb11311: bradenacurtis801/client-base:1.0 is not running[0m
+[32mb11312: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11313: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11314: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.113.15 port 22: No route to host
+[32mb11316: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11317: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11318: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11319: bradenacurtis801/client-base:1.0 is running[0m
+[32mb11320: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12101: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12102: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12103: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.121.4 port 22: No route to host
+[32ma02105: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12106: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12107: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.121.8 port 22: No route to host
+[32mb12109: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12110: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12111-99: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.121.12 port 22: No route to host
+[32mb12113: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12114: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12115: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12116: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12117: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12118: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12119: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12120: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12201: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12202: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12203: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12204: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12205: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12206: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12207: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12208: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12209: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12210: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.122.11 port 22: No route to host
+ssh: connect to host 10.10.122.12 port 22: No route to host
+[32mb12213: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.122.14 port 22: No route to host
+[32mb12215: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12216: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.122.17 port 22: No route to host
+[32mb12218: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.122.19 port 22: No route to host
+[32mb12216: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12301: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12302: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12303: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.123.4 port 22: No route to host
+ssh: connect to host 10.10.123.5 port 22: No route to host
+ssh: connect to host 10.10.123.6 port 22: No route to host
+[32mb12307: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12308: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12309: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.123.10 port 22: No route to host
+[32mb12311: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.123.12 port 22: No route to host
+[32mb12313: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.123.14 port 22: No route to host
+ssh: connect to host 10.10.123.15 port 22: No route to host
+ssh: connect to host 10.10.123.16 port 22: No route to host
+ssh: connect to host 10.10.123.17 port 22: No route to host
+[32mb12318: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12319: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12320: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12401: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12402: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12403: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12404: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12405: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12406: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12407: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12408: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12409: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.124.10 port 22: No route to host
+[32mb12411: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12412: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12413: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12414: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12415: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12416: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12417: bradenacurtis801/client-base:1.0 is running[0m
+[32mb12418: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.124.19 port 22: No route to host
+[32mb12420: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.125.1 port 22: No route to host
+ssh: connect to host 10.10.125.2 port 22: No route to host
+ssh: connect to host 10.10.125.3 port 22: No route to host
+ssh: connect to host 10.10.125.4 port 22: No route to host
+ssh: connect to host 10.10.125.5 port 22: No route to host
+ssh: connect to host 10.10.125.6 port 22: No route to host
+ssh: connect to host 10.10.125.7 port 22: No route to host
+ssh: connect to host 10.10.125.8 port 22: No route to host
+ssh: connect to host 10.10.125.9 port 22: No route to host
+ssh: connect to host 10.10.125.10 port 22: No route to host
+ssh: connect to host 10.10.125.11 port 22: No route to host
+ssh: connect to host 10.10.125.12 port 22: No route to host
+ssh: connect to host 10.10.125.13 port 22: No route to host
+ssh: connect to host 10.10.125.14 port 22: No route to host
+ssh: connect to host 10.10.125.15 port 22: No route to host
+ssh: connect to host 10.10.125.16 port 22: No route to host
+[32mb12517: bradenacurtis801/client-base:1.0 is running[0m
+ssh: connect to host 10.10.125.18 port 22: No route to host
+ssh: connect to host 10.10.125.19 port 22: No route to host
+[32mb12520: bradenacurtis801/client-base:1.0 is running[0m

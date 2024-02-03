@@ -1,0 +1,704 @@
+Running command in 10.10.11.1
+a01101 has image
+Running command in 10.10.11.2
+a01102 has image
+Running command in 10.10.11.3
+a01103 has image
+Running command in 10.10.11.4
+ssh: connect to host 10.10.11.4 port 22: No route to host
+Running command in 10.10.11.5
+a01105 does not have image
+Running command in 10.10.11.6
+a01106 has image
+Running command in 10.10.11.7
+a01107 has image
+Running command in 10.10.11.8
+ssh: connect to host 10.10.11.8 port 22: No route to host
+Running command in 10.10.11.9
+a01109 does not have image
+Running command in 10.10.11.10
+a01110 does not have image
+Running command in 10.10.11.11
+a01111 does not have image
+Running command in 10.10.11.12
+ssh: connect to host 10.10.11.12 port 22: No route to host
+Running command in 10.10.11.13
+a01113 has image
+Running command in 10.10.11.14
+a01114 has image
+Running command in 10.10.11.15
+a01115 does not have image
+Running command in 10.10.11.16
+a01116 does not have image
+Running command in 10.10.11.17
+ssh: connect to host 10.10.11.17 port 22: No route to host
+Running command in 10.10.11.18
+a01118 has image
+Running command in 10.10.11.19
+a01119 does not have image
+Running command in 10.10.11.20
+a01120 does not have image
+Running command in 10.10.12.1
+a01201 has image
+Running command in 10.10.12.2
+a01202 does not have image
+Running command in 10.10.12.3
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01203 does not have image
+Running command in 10.10.12.4
+a01204 has image
+Running command in 10.10.12.5
+a01205 has image
+Running command in 10.10.12.6
+a01206 has image
+Running command in 10.10.12.7
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01207 does not have image
+Running command in 10.10.12.8
+a01208 has image
+Running command in 10.10.12.9
+a01209 does not have image
+Running command in 10.10.12.10
+a01210 does not have image
+Running command in 10.10.12.11
+a01211 does not have image
+Running command in 10.10.12.12
+a01212 has image
+Running command in 10.10.12.13
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01213 does not have image
+Running command in 10.10.12.14
+ssh: connect to host 10.10.12.14 port 22: No route to host
+Running command in 10.10.12.15
+a01215 has image
+Running command in 10.10.12.16
+a01216 does not have image
+Running command in 10.10.12.17
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01217 does not have image
+Running command in 10.10.12.18
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01218 does not have image
+Running command in 10.10.12.19
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a01219 does not have image
+Running command in 10.10.12.20
+a01220 does not have image
+Running command in 10.10.13.1
+a01301 has image
+Running command in 10.10.13.2
+a01302 has image
+Running command in 10.10.13.3
+a01303 does not have image
+Running command in 10.10.13.4
+a01304 does not have image
+Running command in 10.10.13.5
+a01305 does not have image
+Running command in 10.10.13.6
+a01306 has image
+Running command in 10.10.13.7
+ssh: connect to host 10.10.13.7 port 22: No route to host
+Running command in 10.10.13.8
+a01308 does not have image
+Running command in 10.10.13.9
+a01309 has image
+Running command in 10.10.13.10
+a01310 does not have image
+Running command in 10.10.13.11
+a01311 does not have image
+Running command in 10.10.13.12
+a01312 does not have image
+Running command in 10.10.13.13
+a01313 has image
+Running command in 10.10.13.14
+a01314 has image
+Running command in 10.10.13.15
+a01315 does not have image
+Running command in 10.10.13.16
+a01316 does not have image
+Running command in 10.10.13.17
+a01317 has image
+Running command in 10.10.13.18
+a01318 does not have image
+Running command in 10.10.13.19
+a01319 has image
+Running command in 10.10.13.20
+a01320 does not have image
+Running command in 10.10.14.1
+a01401 has image
+Running command in 10.10.14.2
+a01402 has image
+Running command in 10.10.14.3
+a01403 has image
+Running command in 10.10.14.4
+a01404 does not have image
+Running command in 10.10.14.5
+a01405 has image
+Running command in 10.10.14.6
+a01406 does not have image
+Running command in 10.10.14.7
+a01407 has image
+Running command in 10.10.14.8
+ssh: connect to host 10.10.14.8 port 22: No route to host
+Running command in 10.10.14.9
+a01409 does not have image
+Running command in 10.10.14.10
+a01410 has image
+Running command in 10.10.14.11
+a01411 has image
+Running command in 10.10.14.12
+a01412 does not have image
+Running command in 10.10.14.13
+a01413 does not have image
+Running command in 10.10.14.14
+a01414 does not have image
+Running command in 10.10.14.15
+a01415 has image
+Running command in 10.10.14.16
+a01416 has image
+Running command in 10.10.14.17
+a01417 does not have image
+Running command in 10.10.14.18
+a01418 does not have image
+Running command in 10.10.14.19
+a01419 has image
+Running command in 10.10.14.20
+a01420 has image
+Running command in 10.10.21.1
+a02101 does not have image
+Running command in 10.10.21.2
+a02102 has image
+Running command in 10.10.21.3
+a02103 does not have image
+Running command in 10.10.21.4
+a02104 does not have image
+Running command in 10.10.21.5
+ssh: connect to host 10.10.21.5 port 22: No route to host
+Running command in 10.10.21.6
+a02106 does not have image
+Running command in 10.10.21.7
+ssh: connect to host 10.10.21.7 port 22: No route to host
+Running command in 10.10.21.8
+a02108 has image
+Running command in 10.10.21.9
+a02109 has image
+Running command in 10.10.21.10
+a02110 has image
+Running command in 10.10.21.11
+ssh: connect to host 10.10.21.11 port 22: No route to host
+Running command in 10.10.21.12
+a02112 has image
+Running command in 10.10.21.13
+a02113 has image
+Running command in 10.10.21.14
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/json": dial unix /var/run/docker.sock: connect: permission denied
+a02114 does not have image
+Running command in 10.10.21.15
+a02115 has image
+Running command in 10.10.21.16
+a02116 has image
+Running command in 10.10.21.17
+ssh: connect to host 10.10.21.17 port 22: No route to host
+Running command in 10.10.21.18
+a02118 does not have image
+Running command in 10.10.21.19
+a02119 does not have image
+Running command in 10.10.21.20
+a02120 does not have image
+Running command in 10.10.22.1
+a02201 has image
+Running command in 10.10.22.2
+ssh: connect to host 10.10.22.2 port 22: No route to host
+Running command in 10.10.22.3
+a02203 has image
+Running command in 10.10.22.4
+ssh: connect to host 10.10.22.4 port 22: No route to host
+Running command in 10.10.22.5
+a02205 does not have image
+Running command in 10.10.22.6
+a02206 does not have image
+Running command in 10.10.22.7
+a02207 does not have image
+Running command in 10.10.22.8
+ssh: connect to host 10.10.22.8 port 22: No route to host
+Running command in 10.10.22.9
+a02209 does not have image
+Running command in 10.10.22.10
+a02210 does not have image
+Running command in 10.10.22.11
+a02211 does not have image
+Running command in 10.10.22.12
+a02212 does not have image
+Running command in 10.10.22.13
+ssh: connect to host 10.10.22.13 port 22: No route to host
+Running command in 10.10.22.14
+a02214 has image
+Running command in 10.10.22.15
+a02215 does not have image
+Running command in 10.10.22.16
+a02216 does not have image
+Running command in 10.10.22.17
+a02217 has image
+Running command in 10.10.22.18
+a02218 does not have image
+Running command in 10.10.22.19
+a02219 does not have image
+Running command in 10.10.22.20
+a02220 does not have image
+Running command in 10.10.23.1
+a02301 does not have image
+Running command in 10.10.23.2
+a02302 does not have image
+Running command in 10.10.23.3
+ssh: connect to host 10.10.23.3 port 22: No route to host
+Running command in 10.10.23.4
+a02304 does not have image
+Running command in 10.10.23.5
+a02305 has image
+Running command in 10.10.23.6
+a02306 does not have image
+Running command in 10.10.23.7
+a02407 has image
+Running command in 10.10.23.8
+a02308 does not have image
+Running command in 10.10.23.9
+a02309 does not have image
+Running command in 10.10.23.10
+ssh: connect to host 10.10.23.10 port 22: No route to host
+Running command in 10.10.23.11
+a02311 does not have image
+Running command in 10.10.23.12
+a02312 does not have image
+Running command in 10.10.23.13
+a02513 does not have image
+Running command in 10.10.23.14
+a02314 has image
+Running command in 10.10.23.15
+a02315 does not have image
+Running command in 10.10.23.16
+a02316 does not have image
+Running command in 10.10.23.17
+a02317 does not have image
+Running command in 10.10.23.18
+a02318 does not have image
+Running command in 10.10.23.19
+a02319 does not have image
+Running command in 10.10.23.20
+a02320 has image
+Running command in 10.10.24.1
+a02401 does not have image
+Running command in 10.10.24.2
+a02402 does not have image
+Running command in 10.10.24.3
+a02403 does not have image
+Running command in 10.10.24.4
+a02404 does not have image
+Running command in 10.10.24.5
+a02405 does not have image
+Running command in 10.10.24.6
+ssh: connect to host 10.10.24.6 port 22: No route to host
+Running command in 10.10.24.7
+ssh: connect to host 10.10.24.7 port 22: No route to host
+Running command in 10.10.24.8
+a02408 has image
+Running command in 10.10.24.9
+a02409 does not have image
+Running command in 10.10.24.10
+a02410 does not have image
+Running command in 10.10.24.11
+ssh: connect to host 10.10.24.11 port 22: No route to host
+Running command in 10.10.24.12
+ssh: connect to host 10.10.24.12 port 22: No route to host
+Running command in 10.10.24.13
+a02413 does not have image
+Running command in 10.10.24.14
+ssh: connect to host 10.10.24.14 port 22: No route to host
+Running command in 10.10.24.15
+a02415 does not have image
+Running command in 10.10.24.16
+a02416 has image
+Running command in 10.10.24.17
+ssh: connect to host 10.10.24.17 port 22: No route to host
+Running command in 10.10.24.18
+a02418 has image
+Running command in 10.10.24.19
+a02419 has image
+Running command in 10.10.24.20
+ubuntu@10.10.24.20: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+Running command in 10.10.25.1
+a02501 does not have image
+Running command in 10.10.25.2
+a02502 has image
+Running command in 10.10.25.3
+a02503 does not have image
+Running command in 10.10.25.4
+ssh: connect to host 10.10.25.4 port 22: No route to host
+Running command in 10.10.25.5
+ssh: connect to host 10.10.25.5 port 22: No route to host
+Running command in 10.10.25.6
+a02506 does not have image
+Running command in 10.10.25.7
+a02507 has image
+Running command in 10.10.25.8
+a02508 does not have image
+Running command in 10.10.25.9
+a02509 does not have image
+Running command in 10.10.25.10
+a02510 does not have image
+Running command in 10.10.25.11
+ssh: connect to host 10.10.25.11 port 22: No route to host
+Running command in 10.10.25.12
+ssh: connect to host 10.10.25.12 port 22: No route to host
+Running command in 10.10.25.13
+ssh: connect to host 10.10.25.13 port 22: No route to host
+Running command in 10.10.25.14
+a02514 does not have image
+Running command in 10.10.25.15
+a02515 does not have image
+Running command in 10.10.25.16
+a02516 has image
+Running command in 10.10.25.17
+a02517 does not have image
+Running command in 10.10.25.18
+a02518 does not have image
+Running command in 10.10.25.19
+a02519 has image
+Running command in 10.10.25.20
+a02520 does not have image
+Running command in 10.10.111.1
+b11101 has image
+Running command in 10.10.111.2
+ssh: connect to host 10.10.111.2 port 22: No route to host
+Running command in 10.10.111.3
+b11103 has image
+Running command in 10.10.111.4
+b11104 has image
+Running command in 10.10.111.5
+b11105 does not have image
+Running command in 10.10.111.6
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ED25519 key sent by the remote host is
+SHA256:MlJPYPxFYmdUIepFRYNiWilOYOUSA7MZt67caiAXOaA.
+Please contact your system administrator.
+Add correct host key in /home/datacare/.ssh/known_hosts to get rid of this message.
+Offending ED25519 key in /home/datacare/.ssh/known_hosts:144
+  remove with:
+  ssh-keygen -f "/home/datacare/.ssh/known_hosts" -R "10.10.111.6"
+Host key for 10.10.111.6 has changed and you have requested strict checking.
+Host key verification failed.
+Running command in 10.10.111.7
+b11107 has image
+Running command in 10.10.111.8
+b11108 does not have image
+Running command in 10.10.111.9
+b11109 has image
+Running command in 10.10.111.10
+ssh: connect to host 10.10.111.10 port 22: No route to host
+Running command in 10.10.111.11
+ssh: connect to host 10.10.111.11 port 22: No route to host
+Running command in 10.10.111.12
+ssh: connect to host 10.10.111.12 port 22: No route to host
+Running command in 10.10.111.13
+b11113 does not have image
+Running command in 10.10.111.14
+b11114 does not have image
+Running command in 10.10.111.15
+ssh: connect to host 10.10.111.15 port 22: No route to host
+Running command in 10.10.111.16
+ssh: connect to host 10.10.111.16 port 22: No route to host
+Running command in 10.10.111.17
+b11117 has image
+Running command in 10.10.111.18
+b11118 does not have image
+Running command in 10.10.111.19
+b11119 does not have image
+Running command in 10.10.111.20
+b11120 does not have image
+Running command in 10.10.112.1
+b11201 has image
+Running command in 10.10.112.2
+b11202 has image
+Running command in 10.10.112.3
+b11203 does not have image
+Running command in 10.10.112.4
+b11204 does not have image
+Running command in 10.10.112.5
+b11205 does not have image
+Running command in 10.10.112.6
+b11206 does not have image
+Running command in 10.10.112.7
+ssh: connect to host 10.10.112.7 port 22: No route to host
+Running command in 10.10.112.8
+b11208 has image
+Running command in 10.10.112.9
+b11209 does not have image
+Running command in 10.10.112.10
+b11210 does not have image
+Running command in 10.10.112.11
+b11211 does not have image
+Running command in 10.10.112.12
+b11212 does not have image
+Running command in 10.10.112.13
+b11213 has image
+Running command in 10.10.112.14
+b11214 has image
+Running command in 10.10.112.15
+b11215 has image
+Running command in 10.10.112.16
+b11216 does not have image
+Running command in 10.10.112.17
+b11217 does not have image
+Running command in 10.10.112.18
+b11218 does not have image
+Running command in 10.10.112.19
+b11219 has image
+Running command in 10.10.112.20
+b11220 does not have image
+Running command in 10.10.113.1
+b11301 has image
+Running command in 10.10.113.2
+b11302 does not have image
+Running command in 10.10.113.3
+b11303 does not have image
+Running command in 10.10.113.4
+b11304 has image
+Running command in 10.10.113.5
+ssh: connect to host 10.10.113.5 port 22: No route to host
+Running command in 10.10.113.6
+b11306 does not have image
+Running command in 10.10.113.7
+b11307 has image
+Running command in 10.10.113.8
+b11308 has image
+Running command in 10.10.113.9
+b11309 has image
+Running command in 10.10.113.10
+b11310 does not have image
+Running command in 10.10.113.11
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+b11311 does not have image
+Running command in 10.10.113.12
+b11312 has image
+Running command in 10.10.113.13
+b11313 does not have image
+Running command in 10.10.113.14
+b11314 has image
+Running command in 10.10.113.15
+ssh: connect to host 10.10.113.15 port 22: No route to host
+Running command in 10.10.113.16
+b11316 has image
+Running command in 10.10.113.17
+b11317 does not have image
+Running command in 10.10.113.18
+b11318 does not have image
+Running command in 10.10.113.19
+b11319 does not have image
+Running command in 10.10.113.20
+b11320 has image
+Running command in 10.10.121.1
+b12101 has image
+Running command in 10.10.121.2
+b12102 has image
+Running command in 10.10.121.3
+b12103 has image
+Running command in 10.10.121.4
+ssh: connect to host 10.10.121.4 port 22: No route to host
+Running command in 10.10.121.5
+a02105 has image
+Running command in 10.10.121.6
+b12106 has image
+Running command in 10.10.121.7
+b12107 has image
+Running command in 10.10.121.8
+ssh: connect to host 10.10.121.8 port 22: No route to host
+Running command in 10.10.121.9
+b12109 has image
+Running command in 10.10.121.10
+b12110 has image
+Running command in 10.10.121.11
+b12111-99 has image
+Running command in 10.10.121.12
+ssh: connect to host 10.10.121.12 port 22: No route to host
+Running command in 10.10.121.13
+b12113 has image
+Running command in 10.10.121.14
+b12114 has image
+Running command in 10.10.121.15
+b12115 has image
+Running command in 10.10.121.16
+b12116 has image
+Running command in 10.10.121.17
+b12117 has image
+Running command in 10.10.121.18
+b12118 has image
+Running command in 10.10.121.19
+b12119 has image
+Running command in 10.10.121.20
+b12120 has image
+Running command in 10.10.122.1
+b12201 has image
+Running command in 10.10.122.2
+bash: line 11: docker: command not found
+b12202 does not have image
+Running command in 10.10.122.3
+b12203 has image
+Running command in 10.10.122.4
+b12204 has image
+Running command in 10.10.122.5
+b12205 does not have image
+Running command in 10.10.122.6
+b12206 has image
+Running command in 10.10.122.7
+b12207 has image
+Running command in 10.10.122.8
+b12208 does not have image
+Running command in 10.10.122.9
+b12209 has image
+Running command in 10.10.122.10
+b12210 has image
+Running command in 10.10.122.11
+ssh: connect to host 10.10.122.11 port 22: No route to host
+Running command in 10.10.122.12
+ssh: connect to host 10.10.122.12 port 22: No route to host
+Running command in 10.10.122.13
+b12213 has image
+Running command in 10.10.122.14
+ssh: connect to host 10.10.122.14 port 22: No route to host
+Running command in 10.10.122.15
+b12215 has image
+Running command in 10.10.122.16
+b12216 has image
+Running command in 10.10.122.17
+ssh: connect to host 10.10.122.17 port 22: No route to host
+Running command in 10.10.122.18
+b12218 does not have image
+Running command in 10.10.122.19
+ssh: connect to host 10.10.122.19 port 22: No route to host
+Running command in 10.10.122.20
+b12216 has image
+Running command in 10.10.123.1
+b12301 has image
+Running command in 10.10.123.2
+b12302 has image
+Running command in 10.10.123.3
+b12303 has image
+Running command in 10.10.123.4
+ssh: connect to host 10.10.123.4 port 22: No route to host
+Running command in 10.10.123.5
+ssh: connect to host 10.10.123.5 port 22: No route to host
+Running command in 10.10.123.6
+ssh: connect to host 10.10.123.6 port 22: No route to host
+Running command in 10.10.123.7
+b12307 has image
+Running command in 10.10.123.8
+b12308 has image
+Running command in 10.10.123.9
+b12309 does not have image
+Running command in 10.10.123.10
+ssh: connect to host 10.10.123.10 port 22: No route to host
+Running command in 10.10.123.11
+b12311 has image
+Running command in 10.10.123.12
+ssh: connect to host 10.10.123.12 port 22: No route to host
+Running command in 10.10.123.13
+b12313 has image
+Running command in 10.10.123.14
+ssh: connect to host 10.10.123.14 port 22: No route to host
+Running command in 10.10.123.15
+ssh: connect to host 10.10.123.15 port 22: No route to host
+Running command in 10.10.123.16
+ssh: connect to host 10.10.123.16 port 22: No route to host
+Running command in 10.10.123.17
+ssh: connect to host 10.10.123.17 port 22: No route to host
+Running command in 10.10.123.18
+b12318 has image
+Running command in 10.10.123.19
+b12319 has image
+Running command in 10.10.123.20
+b12320 has image
+Running command in 10.10.124.1
+bash: line 11: docker: command not found
+b12401 does not have image
+Running command in 10.10.124.2
+b12402 has image
+Running command in 10.10.124.3
+b12403 has image
+Running command in 10.10.124.4
+b12404 has image
+Running command in 10.10.124.5
+b12405 has image
+Running command in 10.10.124.6
+b12406 has image
+Running command in 10.10.124.7
+b12407 has image
+Running command in 10.10.124.8
+b12408 has image
+Running command in 10.10.124.9
+b12409 has image
+Running command in 10.10.124.10
+ssh: connect to host 10.10.124.10 port 22: No route to host
+Running command in 10.10.124.11
+b12411 has image
+Running command in 10.10.124.12
+b12412 has image
+Running command in 10.10.124.13
+b12413 has image
+Running command in 10.10.124.14
+b12414 has image
+Running command in 10.10.124.15
+b12415 does not have image
+Running command in 10.10.124.16
+b12416 has image
+Running command in 10.10.124.17
+b12417 has image
+Running command in 10.10.124.18
+b12418 has image
+Running command in 10.10.124.19
+ssh: connect to host 10.10.124.19 port 22: No route to host
+Running command in 10.10.124.20
+b12420 has image
+Running command in 10.10.125.1
+ssh: connect to host 10.10.125.1 port 22: No route to host
+Running command in 10.10.125.2
+ssh: connect to host 10.10.125.2 port 22: No route to host
+Running command in 10.10.125.3
+ssh: connect to host 10.10.125.3 port 22: No route to host
+Running command in 10.10.125.4
+ssh: connect to host 10.10.125.4 port 22: No route to host
+Running command in 10.10.125.5
+ssh: connect to host 10.10.125.5 port 22: No route to host
+Running command in 10.10.125.6
+ssh: connect to host 10.10.125.6 port 22: No route to host
+Running command in 10.10.125.7
+ssh: connect to host 10.10.125.7 port 22: No route to host
+Running command in 10.10.125.8
+ssh: connect to host 10.10.125.8 port 22: No route to host
+Running command in 10.10.125.9
+ssh: connect to host 10.10.125.9 port 22: No route to host
+Running command in 10.10.125.10
+ssh: connect to host 10.10.125.10 port 22: No route to host
+Running command in 10.10.125.11
+ssh: connect to host 10.10.125.11 port 22: No route to host
+Running command in 10.10.125.12
+ssh: connect to host 10.10.125.12 port 22: No route to host
+Running command in 10.10.125.13
+ssh: connect to host 10.10.125.13 port 22: No route to host
+Running command in 10.10.125.14
+ssh: connect to host 10.10.125.14 port 22: No route to host
+Running command in 10.10.125.15
+ssh: connect to host 10.10.125.15 port 22: No route to host
+Running command in 10.10.125.16
+ssh: connect to host 10.10.125.16 port 22: No route to host
+Running command in 10.10.125.17
+b12517 does not have image
+Running command in 10.10.125.18
+ssh: connect to host 10.10.125.18 port 22: No route to host
+Running command in 10.10.125.19
+ssh: connect to host 10.10.125.19 port 22: No route to host
+Running command in 10.10.125.20
+b12520 has image
